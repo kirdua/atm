@@ -1,0 +1,11 @@
+.login-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10rem;
+}
+
+.error {
+  display: block;
+  color: red;
+}
